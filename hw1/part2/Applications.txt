@@ -1,0 +1,35 @@
+Description of Apps:
+
+//Characteristics: 
+autoInstallation // can be installed in 1 click
+simpleDeinstallation // can be deleted in 1 click
+active // state
+has an artificialIntelligence
+can maintainSession 
+memoryUsage
+type //desctop or web
+amountOfUsers // maintain simultaniously
+free //is able to download for free
+prevalencePercentage; // how many users are using it in the World
+
+//mothods 
+can start() 
+can stop(){}
+can update(){}
+can showData(){}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

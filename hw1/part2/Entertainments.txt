@@ -1,0 +1,30 @@
+Description of Entertainments 
+
+//Characteristics: 
+type // active or not
+TargetGroup //old, middle,
+safe //is it safe or not for ordinary people
+numberOfInvolvedPeople
+supportingComponents // musicInstruments, toys, fireworks, animals in the circle
+NumOfPeopleInvolved
+originCountry
+location //where it is performed regularly
+widespreadPersentage // in the World
+isReligious
+
+//methods 
+playGame
+playMusic
+selectTargetPeople 
+checkSecurity // os it safe for people?
+checkAbleLocation
+invitePeople
+approveOriginCountry
+countWidespread
+countIncome
+calculateFun
+
+
+
+
+   

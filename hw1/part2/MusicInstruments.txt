@@ -1,0 +1,16 @@
+MusicInstruments 
+
+//Characteristics: 
+type;
+portability;
+AbleToAdjust;
+prevalencePercentage;
+price;
+complexityToLearn;
+size;
+weight;
+OriginCountry;
+age;
+
+//methods 
+

@@ -1,0 +1,39 @@
+Description of CystomerGoods:
+
+//Characteristics: 
+
+//food related
+meet
+egg
+potato
+cucumber
+tomato
+pasta
+bread
+tea
+coffee
+sugar
+water
+salt
+
+//non-food related
+washingPowder
+soup
+shampoo
+bodyWash
+dishwasherGel
+
+
+
+//my methods  - what to do with goods when we prepare food for example
+countMeet // count how much meet we need for group of people
+prepareTeaCup
+buy 
+prepareDinner
+checkWater
+addSalt
+addSugar
+cutPotato
+grindCoffee
+selectBread
+    

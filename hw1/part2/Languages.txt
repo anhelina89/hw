@@ -1,0 +1,27 @@
+Description for Languages 
+
+AveregeNumofWords;
+UsedInTheWorld; //how many people are using it (xx%)
+DifficultyToLearn;
+difficultyByGrammar;
+spelling; // is it possible to spell
+allive;
+type; //a sign language or regular
+amountOfSinonims;
+NumOfLetters;
+
+//methods 
+countWord
+checkUsageInWorld
+estimateHardnessToLearn
+estimateGrammar
+checkSpellingAbility
+checkIsNotExtinct
+countSinonims
+checkFilmSubtitels
+findFairyTailsOnLanguage
+checkSchoolsTeaching
+
+
+
+    

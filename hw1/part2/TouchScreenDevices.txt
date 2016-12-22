@@ -1,0 +1,24 @@
+TouchScreenDevices {
+
+performance;
+hardDiskMemory;
+rechargable;
+energySaving;
+multiCardSupport;
+wiFiSupport;
+internet3G4GSupport;
+recording;
+shape;
+diagonal;
+ableInstallApps;
+
+//methods
+countPerformance
+selectBigHardDisks //select devices only with appropriate hardDiskMemory
+supportMultiCard 
+supportWiFi
+support3Or4G
+supportRecording
+calculateDiagonal 
+checkInstallation //default and additional available apps
+
